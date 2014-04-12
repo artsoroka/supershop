@@ -16,7 +16,14 @@ Route::get('/', function()
 	return "hello"; 
 });
 
-Route::get( 'login',  'AuthController@showLoginForm');
-Route::post('login', 'AuthController@authenticateUser');
-Route::get('whoami', 'AuthController@whoami'); 
-Route::get( 'logout', 'AuthController@logout'); 
+Route::group(array('prefix' => 'admin', 'before' => 'auth'), function()
+{
+	Route::get('/', 'AdministrationController@index'); 
+
+});
+
+
+Route::get( '/login',  'AuthController@showLoginForm');
+Route::post('/login', 'AuthController@authenticateUser');
+Route::get(	'/whoami', 'AuthController@whoami'); 
+Route::get( '/logout', 'AuthController@logout'); 
