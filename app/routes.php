@@ -18,12 +18,33 @@ Route::get('/', function()
 
 Route::group(array('prefix' => 'admin', 'before' => 'auth'), function()
 {
-	Route::get('/', 'AdministrationController@index'); 
+	Route::get('/', 'AdministrationController@index');
+
+	Route::get('/categories', 'CategoriesController@listAll'); 
+	Route::get('/categories/{category_id}', array(
+		'as' => 'category_id', 
+		'uses' => 'CategoriesController@view'
+	)); 
+
+	Route::get('/categories/new', 'CategoriesController@showCreationForm'); 
+	Route::post('/categories/new', 'CategoriesController@createNew');
+
+	Route::get('/categories/{category_id}/edit', array(
+		'as' => 'category_id', 
+		'uses' => 'CategoriesController@update'
+	)); 
+
+	Route::get('/categories/{category_id}/delete', array(
+		'as' => 'category_id', 
+		'uses' => 'CategoriesController@delete'
+	)); 
+
+
 
 });
 
 
 Route::get( '/login',  'AuthController@showLoginForm');
-Route::post('/login', 'AuthController@authenticateUser');
+Route::post('/login',  'AuthController@authenticateUser');
 Route::get(	'/whoami', 'AuthController@whoami'); 
 Route::get( '/logout', 'AuthController@logout'); 
