@@ -13,5 +13,10 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return "hello"; 
 });
+
+Route::get( 'login',  'AuthController@showLoginForm');
+Route::post('login', 'AuthController@authenticateUser');
+Route::get('whoami', 'AuthController@whoami'); 
+Route::get( 'logout', 'AuthController@logout'); 
