@@ -1,6 +1,6 @@
 <?php
 
-class AuthController extends \BaseController {
+class AuthController extends BaseController {
 
 	/**
 	 * Display a listing of the resource.
@@ -19,7 +19,7 @@ class AuthController extends \BaseController {
 	    );
 
 		if( Auth::attempt($userdata) ) {
-			return "welcome"; 
+			return Redirect::to('/admin'); 
 		} else {
 			return View::make('auth.loginform', array(
 				'error' => 'user data is incorrect',
