@@ -19,17 +19,17 @@ Route::get('/', function()
 Route::group(array('prefix' => 'admin', 'before' => 'auth'), function()
 {
 	Route::get('/', 'AdministrationController@index');
-
+	
+	Route::get('/categories/new', 'CategoriesController@showCreationForm'); 
 	Route::get('/categories', 'CategoriesController@listAll'); 
 	Route::get('/categories/{category_id}', array(
 		'as' => 'category_id', 
 		'uses' => 'CategoriesController@view'
 	)); 
 
-	Route::get('/categories/new', 'CategoriesController@showCreationForm'); 
 	Route::post('/categories/new', 'CategoriesController@createNew');
 
-	Route::get('/categories/{category_id}/edit', array(
+	Route::post('/categories/{category_id}/edit', array(
 		'as' => 'category_id', 
 		'uses' => 'CategoriesController@update'
 	)); 
