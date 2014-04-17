@@ -1,5 +1,6 @@
 <html>
 <body>
+{{ Session::get('status') }}
 {{ (isset($status)) ? $status : "" }} 
 <form action="/admin/categories/{{ $category->id }}/edit" method="POST"> 
   <input type="text" name="title" placeholder="title" value="{{ (isset($category['title'])) ? $category['title'] : '' }}" />
