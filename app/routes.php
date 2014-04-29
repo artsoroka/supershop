@@ -16,10 +16,14 @@ Route::get('/', function()
 	return "hello"; 
 });
 
+Route::get('/shop', function(){
+		return View::make('public.mainpage'); 
+	});
+
 Route::group(array('prefix' => 'admin', 'before' => 'auth'), function()
 {
 	Route::get('/', 'AdministrationController@index');
-	
+
 	Route::get('/categories/new', 'CategoriesController@showCreationForm'); 
 	Route::get('/categories', 'CategoriesController@listAll'); 
 	Route::get('/categories/{category_id}', array(
@@ -38,6 +42,8 @@ Route::group(array('prefix' => 'admin', 'before' => 'auth'), function()
 		'as' => 'category_id', 
 		'uses' => 'CategoriesController@delete'
 	)); 
+
+	Route::get('/products', 'ProductsController@listAll'); 
 
 
 
