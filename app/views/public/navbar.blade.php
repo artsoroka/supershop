@@ -18,10 +18,13 @@
                   <li><a href="#">Светодиодные насадки для душа с подсветкой</a></li>
                   <li><a href="#">Сотовые телефоны и смартфоны</a></li>
                   <li><a href="#">Аксессуары для мобильных</a></li>
-                  <li class="divider"></li>
+                  <!--<li class="divider"></li>
                   <li class="dropdown-header">Nav header</li>
-                  <li><a href="#">Separated link</a></li>
-                  <li><a href="#">One more separated link</a></li>
+                  -->
+                  <li><a href="#">Бытовая техника</a></li>
+                  <li><a href="#">Пылесосы </a></li>
+                  <li><a href="#">Холодильники </a></li>
+                  <li><a href="#">Автотовары </a></li>
                 </ul>
               </li>
               <li><a href="#">Оплата и доставка</a></li>
