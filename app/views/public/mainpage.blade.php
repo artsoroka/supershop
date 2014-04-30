@@ -77,21 +77,21 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+          <h2>Насадки для душа</h2>
+          <p>Современные технологии в вашем доме: визуальная индикация температуры воды без лишних проблем. Покупай, торопись </p>
+          <p><a class="btn btn-default" href="#" role="button">Посмотреть все модели </a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+          <h2>Телефоны и смартфоны </h2>
+          <p>Хочешь модный айфон? В нашем каталоге все модели все цвета, трёхмерный галаграфический дисплей и камера на стопицод мегапикселей </p>
+          <p><a class="btn btn-default" href="#" role="button">Купить мобилу </a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+          <h2>Аксессуары для мобильных </h2>
+          <p>Мягкие чехлы, с баньтиками, пушистыми пуспонами и кристалами сваровски, ещё есть модные варианты из Парижа </p>
+          <p><a class="btn btn-default" href="#" role="button">Подобрать к телефону </a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -102,8 +102,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Любителям петь в душе! <span class="text-muted">Теперь с цветомузыкой</span></h2>
+          <p class="lead">Можно экономить на электричестве, используя подсветку душевой насадки и не париться за счета на квартплату </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="http://www.faucetsuperdeal.com/images/detailed/5/8_Inch_Contemporary_A_Grade_ABS_Color_Changing_LED_Rain_Shower_head.jpg">
@@ -146,7 +146,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -158,7 +158,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -182,7 +182,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -204,7 +204,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -237,7 +237,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -248,7 +248,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -259,7 +259,7 @@
                     <div class="caption">
                         <h3>Название товара</h3>
                         <p>Краткое, но информативное описание товара для привлечения внимания </p>
-                        <p><a href="#" class="btn btn-primary">Buy Now!</a>  <a href="#" class="btn btn-default">More Info</a>
+                        <p><a href="#" class="btn btn-success">Заказать сейчас за 2500Р </a>
                         </p>
                     </div>
                 </div>
@@ -273,13 +273,13 @@
 
 
       <!-- Main component for a primary marketing message or call to action -->
-      <div class="jumbotron">
+      <!--<div class="jumbotron">
         <h1>Navbar example</h1>
         <p>This example is a quick exercise to illustrate how the default, static navbar and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
         <p>
           <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
         </p>
-      </div>
+      </div>-->
 
 
       <hr class="featurette-divider">
